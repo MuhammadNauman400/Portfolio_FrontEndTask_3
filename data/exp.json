@@ -1,0 +1,110 @@
+{
+    "name": "Muhammad Nauman",
+    "status": "Software Front-End Web Engineer",
+    "description": "I am passionate and interested in the ever-growing field of Web Front-End development",
+    "navigations": [
+      {
+        "id": 1,
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "name": "Resume",
+        "url": "/resume"
+      },
+     
+      {
+        "id": 4,
+        "name": "Experiences",
+        "url": "/experiences"
+      },
+      {
+        "id": 5,
+        "name": "About",
+        "url": "/about"
+      },
+      {
+        "id": 6,
+        "name": "Contact",
+        "url": "/contact"
+      }
+    ],
+    "contact": {
+      "title": "Contact",
+      "description": "Chat with me through some of the contacts you can call to get acquainted.",
+      "contents": [
+        {
+          "id": 1,
+          "icon": "fab fa-whatsapp",
+          "name": "WhatsApp",
+          "username": "+92 3350649749",
+          "category": "Social Media",
+          "url": "https://wa.me/+92350649749"
+        },
+        {
+          "id": 2,
+          "icon": "fab fa-instagram",
+          "name": "Instagram",
+          "username": "@naumannnn13",
+          "category": "Social Media",
+          "url": "https://www.instagram.com/naumannnn13/"
+        },
+        {
+          "id": 5,
+          "icon": "fab fa-linkedin-in",
+          "name": "Linkedin",
+          "username": "Muhammad Nauman",
+          "category": "Social Media",
+          "url": "https://www.linkedin.com/in/muhammad-nauman-9626872ba/"
+        },
+        {
+          "id": 6,
+          "icon": "fab fa-github",
+          "name": "Github",
+          "username": "Muhammad Nauman",
+          "category": "Social Media",
+          "url": "https://github.com/MuhammadNauman400"
+        },
+        {
+          "id": 7,
+          "icon": "far fa-envelope",
+          "name": "Gmail",
+          "username": "Muhammad Nauman",
+          "category": "Email",
+          "url": "mailto:naumanmuhammad663@gmail.com"
+        }
+      ]
+    },
+    "experiences": {
+      "title": "Experiences",
+      "description": "Explore my  work experiences, As well as my work projects",
+      "contents": [
+        {
+          "id": 2,
+          "title": "My Work Experiences",
+          "contents": [
+               {
+              "id": 5,
+              "timestamp": "Jun 2024 - Present",
+              "name": "Web Development - Frontend (React + NextJS) ",
+              "description": "Frontend Development with React & Next.js:",
+
+              "list": [
+                {
+                  "id": 1,
+                  "name": " I learned React.js to build interactive UIs, manage application state effectively, and handle data with JSX and conditional rendering.",
+                  "level": "Intermediate"
+                }
+              ]
+            }
+            
+            
+            
+            
+          ]
+        }
+      ]
+    }
+  }
+  
